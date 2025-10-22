@@ -5,6 +5,7 @@ Database contains hourly data of temp, wind_speed, humidity and rain for 3 diffe
 ### Setting Up Database
 
 cd database
+
 docker-compose up -d
 
 ### Example Queries
